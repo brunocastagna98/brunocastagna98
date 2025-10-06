@@ -45,8 +45,9 @@
 
 <h2>📫 Contacto</h2>
 <p>
-  <a href="[https://www.linkedin.com/in/brunocastagna98](https://www.linkedin.com/in/brunocastagna98/)" target="_blank">💼 LinkedIn</a>
+  <a href="https://www.linkedin.com/in/brunocastagna98/" target="_blank">💼 LinkedIn</a>
 </p>
+
 
 <hr>
 
